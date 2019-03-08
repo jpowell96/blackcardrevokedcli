@@ -1,0 +1,24 @@
+mc, Who was the first black Congressperson?, Barack Obama, Thurgood Marshall, Mae Jemison, Shirley Chisolm, Shirley Chisolm
+mc, Who was the first black elected mayor of a major U.S. city?, Coleman Young(Detroit), Maynard Jackson (Atlanta), Tom Bradley (Los Angeles), Carl Stokes (Cleveland), Carl Stokes (Cleveland)
+mc, Who was the first black heavyweight boxing champion?, Mike Tyson, Joe Louis, Muhammed Ali, Jack Johnson, Jack Johnson
+mc, Which American country imported the most African slaves?, Cuba, Haiti, the United States, Brazil
+mc, Which inventor developed about 100 products made from peanuts?, Benjamin Banneker, Elijah McCoy, Dr. Ben Carson, George Washington Carver, George Washington Carver
+mc, Who was the first black actor to win an Oscar?, Halle Berry, Dorothy Dandridge, Lena Horne, Hattie McDaniel, Hattie McDaniel
+mc, Who founded the Student Nonviolent Coordinating Committee, Stokely Carmichael, Julian Bond, Ella Baker, Malcolm X, Ella Baker
+mr, Which singer has the better "revolution" songs?, Marvin Gaye, Gil Scott-Heron, Bob Marley, Nina Simone, MAJORITY_RULES
+mr, Which HBCU was founded first?, Lincoln, Howard, Cheyney, Wilberforce, MAJORITY_RULES
+mr, What would you do if given 40 acres and a mule?, Quit your job and start a farm, Sell them, Give them back, Donate them to charity, MAJORITY_RULES
+mr, Which musical art form most represents the spirit of the black community?, Blues, Jazz, R&B/ Soul, Hip-Hop, MAJORITY_RULES
+mr, Other than slavery what has had the most impact on the black community, Segregation, Crack Cocaine epidemic, the death of Martin Luther King, Rap, MAJORITY_RULES
+mr, Which Negro spiritual might you hear your grandma singing?, Go Down Moses, Swing Low Swing Chariot, His Eye is on the Sparrow, Mary Don't you Weep, MAJORITY_RULES
+mr, What might you find a Nation of Islam member selling on the street?, a Final Call, bowties, beanpies, his new mixtape, MAJORITY_RULES
+mr, Who do you think may have really killed Dr. King?, the nation of Islam, the FBI, Ku Klux Klan, James Early Ray, MAJORITY_RULES
+mr, Besides MLK Jr. who did more to advance the Civil Rights movement?, Malcolm X, John F. Kennedy, The Black Panthers, Rev. Jesse Jackson, MAJORITY_RULES
+mr, It's the year 1898. The KKK have surrounded your house because you dared to vote. What do you do?, Go out & have a conversation, Stay in and pray, Get a gun & protect yourself, Try to sneak out the back, MAJORITY_RULES
+mc, What year did Lincoln issue the Emancipation Proclamation?, 1912, 1832, 1863, 1981, 1863
+mc, Which famous author wrote the book "Their Eyes Were Watching God"?, Maya Angelou, Zora Neale Hurston, Toni Morrison, Nikki Giovanni, Zora Neale Hurston
+mc, In what city did Huey Newton & Bobby Seale start the Black Panthers, Chicago, Los Angeles, Atlanta, Oakland, Oakland
+mc, In what city was the Nation of Islam founded?, Chicago, Gary Indiana, New York City, Detroit, Detroit
+mc, How many black people moved out of the South during the Great Migration?, 6 million, 10 million, 2 million, 4.5 million, 6 million
+mc, Which state was the first to abolish slavery in the United States?, Vermont, Ohio, Pennysylvania, Massachusetts, Vermont
+mc, Who was the editor of the abolitionist newspaper 'The Liberator'?, Benjamin Franklin, William Floyd Garrison, Johns Hopkins, John Wesley, William Lloyd Garrison
