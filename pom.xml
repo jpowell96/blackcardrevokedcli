@@ -44,7 +44,20 @@
 			<plugin>
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.22.1</version>
-			</plugin>
+	</plugin>
+	
+	    <plugin>
+	<groupId>org.apache.maven.plugins</groupId>
+	<artifactId>maven-jar-plugin</artifactId>
+	<version>2.4</version>
+	<configuration>
+	  <archive>
+	    <manifest>
+		<mainClass>main.java.app.App</mainClass>
+	    </manifest>
+	  </archive>
+	</configuration>
+    </plugin>
     </plugins>
   </build>
 
