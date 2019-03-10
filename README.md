@@ -2,9 +2,10 @@
 A command line version of BlackCardRevoked. This version is single threaded.
 
 # Setup
-To setup. Clone the repository.
-1. run mvn install
+mvn install
 
+# Test
+mvn test
 
 ## To run the project:
 ---------
