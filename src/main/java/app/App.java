@@ -36,9 +36,6 @@ public class App {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
-		Game game = new Game();
-		game.play();
 	}
 	private static boolean isPlay(String input) {
 		return input.equals("play");
